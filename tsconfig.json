@@ -8,5 +8,8 @@
 		"jsx": "react",
 		"esModuleInterop": true,
 		"skipLibCheck": true
-	}
+	},
+	"exclude": [
+		"dist"
+	]
 }
